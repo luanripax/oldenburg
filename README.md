@@ -1,6 +1,6 @@
 # Oldenburg - from dwws tutorial
 
-Simple tutorial for a SonarQube testing
+Simple tutorial for SonarQube testing
 
 1 - Install SonarLint to eclipse
 marketplace link : https://marketplace.eclipse.org/content/sonarlint
