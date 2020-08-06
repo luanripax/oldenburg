@@ -35,4 +35,4 @@ if the project its in Maven, it will generate a code for you to execute on the p
 - Finally, you should write on "Choose the SonarQube Project", the name of the project that you've created on the SonarQube Server.
 After that, just click on Finish.
 
-9 - Now if you'd go back to the tab Projects on the SonarQube server, you should see your project linked to eclipse and it's info.
+9 - Now if you'd go back to the tab Projects on the SonarQube server, you should see your project linked to eclipse and it's info
