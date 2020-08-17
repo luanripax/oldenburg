@@ -16,7 +16,7 @@ just click and download the "Community edition".
 Inside that bin folder you can find some folders related to all operational systems, just click on the folder for your system.
 You've finally found a "sonar.sh" file (if you're on linux or mac).
 
-5 - So, now you are able to run the SonarQube server, simply do it by
+5 - So, now you are able to run the SonarQube server, simply do it by:
 ./sonar.sh start
 
 6 - The default link to acces SonarQube server is http://localhost:9000 , if you try to access it, you should see the main page
